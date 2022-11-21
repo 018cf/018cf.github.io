@@ -75,4 +75,4 @@
 
 :  a dark, cool-leaning muted green color
 
-For many people, the color green has strong associations with nature and brings to mind lush grass, trees, and forests. Green is often described as a refreshing and tranquil color. Other common associations with the color green are money, luck, health, and envy.
+* For many people, the color green has strong associations with nature and brings to mind lush grass, trees, and forests. Green is often described as a refreshing and tranquil color. Other common associations with the color green are money, luck, health, and envy. *
