@@ -2,6 +2,8 @@
 ----
 " Prettiest Green Palette "
 
+(For many people, the color green has strong associations with nature and brings to mind lush grass, trees, and forests. Green is often described as a refreshing and tranquil color. Other common associations with the color green are money, luck, health, and envy.)
+
 - Healing Aloue (light blue)
 
 ![image](https://user-images.githubusercontent.com/118184959/203087743-f9999819-b6ec-483f-b545-fe82a78d1106.png)
@@ -75,4 +77,16 @@
 
 :  a dark, cool-leaning muted green color
 
-* For many people, the color green has strong associations with nature and brings to mind lush grass, trees, and forests. Green is often described as a refreshing and tranquil color. Other common associations with the color green are money, luck, health, and envy. *
+MORE INFORMATION ABOUT GREEN*
+
+- Green is synonymous with luck, freedom, hope, creativity, renewal and vitality. So many precious symbols to wear with you every day!
+
+-  a color whose hue is somewhat less yellow than that of growing fresh grass or of the emerald or is that of the part of the spectrum lying between blue and yellow.
+
+- For many people, the color green has strong associations with nature and brings to mind lush grass, trees, and forests. Green is often described as a refreshing and tranquil color.
+
+- Green, the color of life, renewal, nature, and energy, is associated with meanings of growth, harmony, freshness, safety, fertility, and environment.
+
+- Green is a primary color that can be used along with red and blue to create all other colors. It is one of the most common colors in nature as most trees and vegetation are green due to chlorophyll, a chemical plants use to convert sunlight into energy.
+
+- In 1775, Swedish chemist Carl Wilhelm Scheele invented a deadly, bright green hue made with the toxic chemical, arsenite. Called Scheele's Green.
