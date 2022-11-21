@@ -1,32 +1,76 @@
 # welcome to 018cf.github.io
 ----
-"Courses in College"
-- Nursing and Health Care Courses.
+" Prettiest Green Palette "
 
- The Bachelor of Science in Nursing (BSN) is a four-year degree program that teaches students the necessary skills and knowledge for health care. It revolves around four main components; health promotion, disease prevention, risk reduction, and health restoration.
- 
- ![image](https://user-images.githubusercontent.com/118184959/202325892-7090ab98-441d-4103-88aa-d9396d7472af.png)
- 
- - Business Management Courses.
+- Healing Aloue (light blue)
 
-Studying for a business management degree allows you to develop a broad understanding of business organisations and provides you with subject-specific knowledge in areas such as markets, customers, finance, operations, communication, information technology and business policy and strategy.
+![image](https://user-images.githubusercontent.com/118184959/203087743-f9999819-b6ec-483f-b545-fe82a78d1106.png)
 
-![image](https://user-images.githubusercontent.com/118184959/202326047-69d98db5-4d1a-4697-9caa-dcb2b2faf33f.png)
 
-- Engineering Courses.
+: a refreshing shade of light blue with notes of gray. LRV, or Light Reflectance Value, is a measurement commonly used by design professionals—such as architects and interior designers—that expresses the percentage of light reflected from a surface.
 
-Engineering is the designing, testing and building of machines, structures and processes using maths and science. Studying it can lead to a rewarding career. Engineering is a discipline dedicated to problem solving. Aside from that engineering is the application of science and maths to solve problems. While scientists and inventors come up with innovations, it is engineers who apply these discoveries to the real world.
+- Sea Salt
 
-![image](https://user-images.githubusercontent.com/118184959/202326484-7cd920f8-487c-42dd-9b78-b03c25507bae.png)
+![image](https://user-images.githubusercontent.com/118184959/203088079-7a4cf2e7-e780-4f59-b302-a8efc603e2ea.png)
 
-- Marketing Management Courses.
+:  an iconic blue-green paint color that is soft and muted. it is a flexible color that can look good with both muted and fresh color palettes.
 
-The BSBA in Marketing Management is a four-year program designed to equip students with the knowledge and skills effective for marketing and sales strategies; how a company determines what product or service to sell, how customers and markets are delineated into target demographics and the methods of reaching them.
+- Hollingsowrt Green
 
-![image](https://user-images.githubusercontent.com/118184959/202326640-ef9ac9e3-28a6-458b-8f9a-3983a34da705.png)
+![image](https://user-images.githubusercontent.com/118184959/203088409-a3efb1cd-deef-42e0-9109-e12d6d275b83.png)
 
-- Accounting Courses.
+: a feather-light combination of green, blue and gray. LRV, or Light Reflectance Value, is a measurement commonly used by design professionals—such as architects and interior designers—that expresses the percentage of light reflected from a surface.
 
-Accountancy is the practice of recording, classifying, and reporting on business transactions for a business. It provides feedback to management regarding the financial results and status of an organization. Accounting majors learn how to create, maintain and audit a detailed and accurate system that displays the finances of a business or organization. They study the theory behind accounting and learn how to analyze the financial position of a firm or organization.
+- Soften Green
 
-![image](https://user-images.githubusercontent.com/118184959/202326797-105ce4aa-368b-4651-ba66-2ebe6694fe04.png)
+![image](https://user-images.githubusercontent.com/118184959/203088573-60ff990d-f891-48c8-8246-f2b58199c555.png)
+
+:  a pretty and calm, warm green paint color with a tinge of gray and yellow in the undertones
+
+- Avocado Whip
+
+![image](https://user-images.githubusercontent.com/118184959/203088670-45dd9f5f-ac5d-42d2-9000-13b2e9bdae19.png)
+
+:  a chalky lime with a sage undertone.
+
+- Green Smoke
+
+![image](https://user-images.githubusercontent.com/118184959/203088746-cfebd3c6-ddd5-41ee-8348-1468114126a4.png)
+
+: a smoky green blue, this colour was popular in interiors during the late 19th century. It has an irresistibly inviting deepness and weathered familiarity when used in exterior situations, while evoking calm and serenity when used inside.
+
+- Palace Green
+
+![image](https://user-images.githubusercontent.com/118184959/203088829-67a30974-a27b-4a01-a9bf-18858755ad99.png)
+
+: a mixture of Prussian blue, white and naturally occurring yellows, this rich, well-appointed green imbues rooms with style.
+
+- Tatie Olive (grounded green)
+
+![image](https://user-images.githubusercontent.com/118184959/203088997-41a73a29-9c0f-4d84-9149-c655d53bffd1.png)
+
+: a deep, grounded green with a hint of warmth
+
+- Backwoods (forest green)
+
+![image](https://user-images.githubusercontent.com/118184959/203089058-45beb427-7169-4e72-884e-9eb05df7433d.png)
+
+: a blackened shade of forest green that bares a hint of welcoming warmth.
+
+- Lafayette Green
+
+![image](https://user-images.githubusercontent.com/118184959/203089123-57699108-2c0c-42bc-89b0-8fa233f0a08c.png)
+
+: A stately dark green that sets a dramatic mood.
+
+- Evergreen
+
+![image](https://user-images.githubusercontent.com/118184959/203089196-b0b63610-6b57-49e9-972b-5b7b304d36f5.png)
+
+: having foliage that remains green and functional through more than one growing season. 
+
+- Pewter Green
+
+![image](https://user-images.githubusercontent.com/118184959/203089269-934dd5dd-6be7-4892-83b4-d7de611d032c.png)
+
+:  a dark, cool-leaning muted green color
