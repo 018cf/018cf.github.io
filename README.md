@@ -78,7 +78,6 @@
 
 :  a dark, cool-leaning muted green color
 
-
 MORE INFORMATION ABOUT GREEN*
 
 - Green is synonymous with luck, freedom, hope, creativity, renewal and vitality. So many precious symbols to wear with you every day!
