@@ -91,3 +91,4 @@ MORE INFORMATION ABOUT GREEN*
 - Green is a primary color that can be used along with red and blue to create all other colors. It is one of the most common colors in nature as most trees and vegetation are green due to chlorophyll, a chemical plants use to convert sunlight into energy.
 
 - In 1775, Swedish chemist Carl Wilhelm Scheele invented a deadly, bright green hue made with the toxic chemical, arsenite. Called Scheele's Green.
+
